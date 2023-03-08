@@ -1,0 +1,4 @@
+function convert() {
+    translate(Form1.nameeng, Form1.namenep), translate(Form1.oldaddresseng, Form1.oldaddressnep), translate(Form1.currentaddresseng, Form1.currentaddressnep), translate(Form1.vetieng, Form1.vetinep), translate(Form1.reference, Form1.reference2), translate(Form1.syaieng, Form1.syainep),
+    translate(Form2.nameeng2, Form2.namenep2), translate(Form2.oldaddresseng2, Form2.oldaddressnep2), translate(Form2.currentaddresseng2, Form2.currentaddressnep2), translate(Form2.vetieng2e, Form2.vetinep2e), translate(Form2.reference2e, Form2.reference2e2), translate(Form2.syaieng2e, Form2.syainep2e);
+}
